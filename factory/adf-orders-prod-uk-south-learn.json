@@ -1,5 +1,10 @@
 {
 	"name": "adf-orders-prod-uk-south-learn",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
 	"location": "uksouth",
 	"identity": {
 		"type": "SystemAssigned",
