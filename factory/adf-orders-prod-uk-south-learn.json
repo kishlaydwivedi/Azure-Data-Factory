@@ -1,0 +1,9 @@
+{
+	"name": "adf-orders-prod-uk-south-learn",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "163f2353-a68c-4ea1-9dd4-40514491aabb",
+		"tenantId": "844b828b-3699-4454-8b67-694fa7490a0f"
+	}
+}
